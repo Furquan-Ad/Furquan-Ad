@@ -45,7 +45,7 @@
 
 - 🏠 **Airbnb Clone** – Full Stack Property Listing Web App (https://airbnb-clone-1-vn2x.onrender.com/listings) 
 - 📝 **Animated Login Page** – Login page (https://statuesque-vacherin-bdf705.netlify.app/)  
-- 🤖 **E-commerse Website** – created a E-commerse website 
+- 🤖 **E-commerse Website** – created a E-commerse website (https://shopease-ecoomerse-website.netlify.app/)
 
 ---
 
