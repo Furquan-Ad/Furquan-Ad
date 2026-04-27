@@ -42,12 +42,10 @@
 ---
 
 ## 📌 Projects
-
-- 🏠 **Airbnb Clone** – Full Stack Property Listing Web App (https://airbnb-clone-1-vn2x.onrender.com/listings) 
-- 📝 **Animated Login Page** – Login page (https://statuesque-vacherin-bdf705.netlify.app/)  
-- 🤖 **E-commerse Website** – created a E-commerse website (https://shopease-ecoomerse-website.netlify.app/)
-
----
+- 🏠 **Airbnb Clone** – Full Stack Property Listing Web App (https://airbnb-clone-1-vn2x.onrender.com/listings)
+- 📈 **Zerodha Clone** – Full Stack Stock Broker App with Authentication, Watchlist, Holdings & Orders (https://zerodha-clone-2-ccyx.onrender.com)
+- 📝 **Animated Login Page** – Login Page (https://statuesque-vacherin-bdf705.netlify.app/)
+- 🛒 **E-commerce Website** – Created an E-commerce Website (https://shopease-ecoomerse-website.netlify.app/)
 
 ## 📊 GitHub Stats
 
