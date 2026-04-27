@@ -82,9 +82,9 @@ const furquan = {
 
 ## 🎯 Current Goals
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=🌱+Mastering+Full+Stack+Development;🤖+Learning+AI+Integration+in+Web+Apps;💼+Open+to+Exciting+Opportunities;📈+Building+Projects+That+Matter" />
-</p>
+🌱 Becoming a strong Full Stack Developer
+🤖 Learning AI integration in web apps
+💼 Open to exciting opportunities
 
 ---
 
